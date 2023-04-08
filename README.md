@@ -1,5 +1,4 @@
 # China-s-Steel-Production-Analysis-for-Blog
-This Jupyter Notebook contains the code that allowed me to convert data from an Excel file into feasible Plotly graphs.  The data was acquired from the World Steel Association through a direct information request. The original Excel data had to be cleaned, converted into tables, and graphed in Excel to develop the stream graph (image document).
 
 The development of the steel industry is one of the biggest indicators of industrial and economic advancement in any form of society. The development of the
 the steel industry in particular, metaphorically speaking, is to the likes of the development of bone structures in vertebrate organisms. Both are the product 
