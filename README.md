@@ -34,4 +34,5 @@ The document "China's Steel Production Streamgraph-Created_3_5_2023.ipynb" gener
 
 a) A stream graph from the 'Streamgraph' R package (https://github.com/hrbrmstr/streamgraph)
 
-![Screenshot 2023-05-24 at 10 55 29 AM (3)](https://github.com/juanchok12/China-s-Steel-Production-Analysis-for-Blog/assets/116334702/927f93cc-bcdb-469b-b42a-4c6df2d8c333)
+![Streamgraph](https://github.com/juanchok12/China-s-Steel-Production-Analysis-for-Blog/assets/116334702/db3dc0c5-0ade-47df-b8ac-fdc0719ee2f8)
+
