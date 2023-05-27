@@ -21,6 +21,9 @@ a) A Plotly treemap plot:
 
 ![Screenshot 2023-05-24 at 11 18 34 AM (3)](https://github.com/juanchok12/China-s-Steel-Production-Analysis-for-Blog/assets/116334702/ce696e7e-4ebb-414d-9fa7-d2b247d7359c)
 
+![ezgif com-video-to-gif](https://github.com/juanchok12/China-s-Steel-Production-Analysis-for-Blog/assets/116334702/4fd545a3-1360-4ba5-9d05-22d7180970bc)
+
+
 
 b) A Plotly line plot:
 
