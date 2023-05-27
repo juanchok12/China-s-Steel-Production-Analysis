@@ -24,8 +24,9 @@ a) A Plotly treemap plot:
 
 
 b) A Plotly line plot:
+![Line](https://github.com/juanchok12/China-s-Steel-Production-Analysis-for-Blog/assets/116334702/d03ba431-2000-4d11-ba0d-0a920df358cf)
 
-![Screenshot 2023-05-24 at 11 17 05 AM (2)](https://github.com/juanchok12/China-s-Steel-Production-Analysis-for-Blog/assets/116334702/1f7a4ba9-c09b-4a1f-8475-895c8759ae86)
+
 
 
 The document "China's Steel Production Streamgraph-Created_3_5_2023.ipynb" generates the following two major plots:
