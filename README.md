@@ -9,7 +9,7 @@ The production of steel requires a variety of resources and technologies, includ
 of bone structures in vertebrates requires the consumption of nutrients, such as calcium and phosphorus, as well as the activation of specific genes and signaling 
 pathways. The product of this study indicates that, when talking at least about raw steel production, China appears to be a different type of organism.
 
-This project is a quantiative comperative analysis betweeen the raw steel production of China and the rest of the world. 
+This project is a quantiative comperative analysis betweeen the raw steel production of China and the rest of the world.  
 
 ### Methodology
 I received the data source from the World Steel Association through an information request on the steel production of all the major steel producing countries and the rest of the world. The original data was in Excel file format, but was transformed into dataframes to be readeable for my plot functions. 
