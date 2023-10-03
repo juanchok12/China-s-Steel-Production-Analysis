@@ -1,4 +1,4 @@
-# China-s-Steel-Production-Analysis-for-Blog
+# China-s-Steel-Production-Analysis
 
 The development of the steel industry is one of the biggest indicators of industrial and economic advancement in any form of society. The development of the
 the steel industry in particular, metaphorically speaking, is to the likes of the development of bone structures in vertebrate organisms. Both are the product 
