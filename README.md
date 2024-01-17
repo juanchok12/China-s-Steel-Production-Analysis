@@ -40,13 +40,13 @@ The original data was in Excel file format.
 ## Plots
 The document "China's Steel Production Graphics-Created_3_5_2023-Updated_5_23_2023.ipynb" generates the following plots:
 
-a) A Plotly treemap plot:
+ a) A Plotly treemap plot:
 
 ![ezgif com-video-to-gif](https://github.com/juanchok12/China-s-Steel-Production-Analysis-for-Blog/assets/116334702/4fd545a3-1360-4ba5-9d05-22d7180970bc)
 
 
 
-b) A Plotly line plot:
+ b) A Plotly line plot:
 
 ![Line](https://github.com/juanchok12/China-s-Steel-Production-Analysis-for-Blog/assets/116334702/d03ba431-2000-4d11-ba0d-0a920df358cf)
 
