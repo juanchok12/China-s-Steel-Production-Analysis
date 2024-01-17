@@ -7,7 +7,7 @@ import time
 import json
 
 
-EXCEL_FILE="C:/Users/16193/My Drive/Back Up/The Internationalist Group/Political Economy/Planned Economy/China/Steel/Animated Bar Chart/steel_production_per_country_1-15-2024.xlsx"
+EXCEL_FILE="your/path/towards/data/source"
 
 #Define main function to set the duration, frames per second, font color, and background color, and identify the data frame
 def main(duration = 1.0, fps = 60, font_color=(225,225,225), background=(0,0,0)):
