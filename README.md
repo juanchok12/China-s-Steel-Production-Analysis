@@ -16,7 +16,26 @@ pathways. The product of this study indicates that, when talking at least about 
 This project is a quantiative comperative analysis betweeen the raw steel production of China and the rest of the world.  
 
 ## Data Source
-I received the data source from the World Steel Association through an information request on the steel production of all the major steel producing countries and the rest of the world. The original data was in Excel file format.
+Data source is from the World Steel Association through an information request on the steel production of all the major steel producing countries and the rest of the world from 1917-2022. The major producers of raw steel are: 
+  * France
+  * Germany
+  * Italy
+  * Spain
+  * United Kingdom
+  * Poland
+  * Turkey
+  * Russia
+  * Canada
+  * Mexico
+  * United States
+  * Brazil
+  * China
+  * India
+  * Japan
+  * South Korea
+
+
+The original data was in Excel file format.
 
 ## Plots
 The document "China's Steel Production Graphics-Created_3_5_2023-Updated_5_23_2023.ipynb" generates the following plots:
