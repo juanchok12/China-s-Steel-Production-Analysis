@@ -15,10 +15,10 @@ pathways. The product of this study indicates that, when talking at least about 
 
 This project is a quantiative comperative analysis betweeen the raw steel production of China and the rest of the world.  
 
-### Methodology
-I received the data source from the World Steel Association through an information request on the steel production of all the major steel producing countries and the rest of the world. The original data was in Excel file format, but was transformed into dataframes to be readeable for my plot functions. 
+## Data Source
+I received the data source from the World Steel Association through an information request on the steel production of all the major steel producing countries and the rest of the world. The original data was in Excel file format.
 
-
+## Plots
 The document "China's Steel Production Graphics-Created_3_5_2023-Updated_5_23_2023.ipynb" generates the following plots:
 
 a) A Plotly treemap plot:
